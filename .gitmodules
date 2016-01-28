@@ -7,3 +7,6 @@
 [submodule "vim/.vim/bundle/vim-indent-object"]
 	path = vim/.vim/bundle/vim-indent-object
 	url = https://github.com/michaeljsmith/vim-indent-object
+[submodule "vim/.vim/bundle/vim-markdown"]
+	path = vim/.vim/bundle/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git
